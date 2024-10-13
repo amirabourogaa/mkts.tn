@@ -17,15 +17,15 @@
   --nav-font: "Raleway",  sans-serif;
 }
 
-/* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root {  
   --background-color: #ffffff; /* Gardé le blanc pour le fond général du site */
   --default-color: #1b1b1b; /* Noir pour le texte principal */
   --heading-color: #ff8c00; /* Orange pour les titres, sous-titres et titres */
-  --accent-color: #ffd700; /* Gold pour les éléments à mettre en avant, comme les boutons et les liens */
+  --accent-color: #daa520; /* Goldenrod pour les éléments à mettre en avant, comme les boutons et les liens */
   --surface-color: #ffffff; /* Surface blanche pour des éléments en boîte */
   --contrast-color: #ffffff; /* Blanc pour assurer la lisibilité sur les couleurs sombres */
 }
+
 
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
